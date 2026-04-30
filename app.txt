@@ -1,3 +1,8 @@
 Collaboration Demo Project
 Version 1.0
 This is version B of collaboration demo.
+
+This project demonstrates GitHub 
+collaboration workflows such as issues, 
+branching, pull requests, code review, 
+and CI integration.
