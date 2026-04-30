@@ -1,5 +1,7 @@
 Collaboration Demo Project
 Version 1.0
-This project demonstrates GitHub collaboration 
-workflows including issues, branches, pull requests, 
-and CI.
+
+This project demonstrates GitHub 
+collaboration workflows such as issues, 
+branching, pull requests, code review, 
+and CI integration.
